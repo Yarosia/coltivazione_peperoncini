@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Coltivazione Peperoncini</string>
     <string name="action_settings">Settings</string>
+    <string name="chinense">Chinense</string>
+    <string name="annuum">Annuum</string>
+    <string name="wild">Wild</string>
+    <string name="baccatum">Baccatum</string>
+    <string name="pubescens">Pubescens</string>
+    <string name="fructescens">Frutescens</string>
 </resources>
